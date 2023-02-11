@@ -192,7 +192,7 @@ ppft==1.6.6.4
 preshed==3.0.5
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-protobuf==3.17.3
+protobuf==3.18.3
 protobuf3-to-dict==0.1.5
 psutil @ file:///tmp/build/80754af9/psutil_1612298016854/work
 psycopg2==2.7.5
