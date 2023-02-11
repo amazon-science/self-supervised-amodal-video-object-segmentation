@@ -305,7 +305,7 @@ three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
 tifffile @ file:///tmp/build/80754af9/tifffile_1610739638720/work
 toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
-torch==1.8.1+cu111
+torch==1.13.1
 torch-model-archiver @ file:///scratch/eliuriegas/serve/model-archiver/dist/torch_model_archiver-0.2.1-py2.py3-none-any.whl
 torchaudio==0.8.1
 torchserve @ file:///scratch/eliuriegas/serve/dist/torchserve-0.2.1-py2.py3-none-any.whl
