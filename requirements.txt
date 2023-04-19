@@ -70,7 +70,7 @@ flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 Flask-Cors==3.0.10
 fsspec==2021.4.0
-future==0.18.2
+future==0.18.3
 gevent @ file:///tmp/build/80754af9/gevent_1610995761849/work
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2==2.0.8
