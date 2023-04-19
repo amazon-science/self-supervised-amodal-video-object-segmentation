@@ -126,7 +126,7 @@ lazy-object-proxy @ file:///tmp/build/80754af9/lazy-object-proxy_1606850042850/w
 libarchive-c @ file:///home/linux1/recipes/ci/python-libarchive-c_1610974153025/work
 llvmlite==0.34.0
 locket==0.2.1
-lxml==4.6.3
+lxml==4.9.1
 Markdown==3.3.4
 MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1594371495811/work
 matplotlib==3.2.2
