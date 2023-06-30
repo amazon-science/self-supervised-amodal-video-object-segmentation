@@ -182,7 +182,7 @@ pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==9.3.0
-pipreqs==0.4.11
+pipreqs==0.4.12
 pkginfo==1.7.0
 plotly==5.0.0
 pluggy==0.13.1
