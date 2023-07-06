@@ -253,7 +253,7 @@ sagemaker==2.46.1
 scikit-image==0.17.2
 scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376882706/work
 scikit-video==1.1.11
-scipy==1.2.0
+scipy==1.10.0
 seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
 SecretStorage @ file:///tmp/build/80754af9/secretstorage_1614022884812/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
