@@ -320,7 +320,6 @@ typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_161280820962
 ujson @ file:///tmp/build/80754af9/ujson_1611259506266/work
 unicodecsv==0.14.1
 urllib3==1.26.18
-VideoAmodal==0.0.0
 wasabi==0.8.2
 watchdog @ file:///tmp/build/80754af9/watchdog_1612471130876/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
