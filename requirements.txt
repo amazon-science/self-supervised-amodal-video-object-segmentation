@@ -319,7 +319,7 @@ typing==3.7.4.3
 typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 ujson @ file:///tmp/build/80754af9/ujson_1611259506266/work
 unicodecsv==0.14.1
-urllib3==1.26.5
+urllib3==1.26.18
 VideoAmodal==0.0.0
 wasabi==0.8.2
 watchdog @ file:///tmp/build/80754af9/watchdog_1612471130876/work
