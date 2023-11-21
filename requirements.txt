@@ -198,7 +198,7 @@ psutil @ file:///tmp/build/80754af9/psutil_1612298016854/work
 psycopg2==2.7.5
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 py @ file:///tmp/build/80754af9/py_1607971587848/work
-pyarrow==4.0.1
+pyarrow==14.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0.2
