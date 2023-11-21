@@ -1,6 +1,6 @@
 absl-py==0.15.0
 aiobotocore==1.3.0
-aiohttp==3.7.4.post0
+aiohttp==3.8.6
 aioitertools==0.7.1
 alabaster==0.7.12
 anaconda-client==1.7.2
@@ -35,7 +35,7 @@ Bottleneck==1.3.2
 brotlipy==0.7.0
 cachetools==4.2.4
 catalogue==2.0.4
-certifi==2022.12.7
+certifi==2023.7.22
 cffi @ file:///tmp/build/80754af9/cffi_1613246939562/work
 channelnorm-cuda==0.0.0
 chardet @ file:///tmp/build/80754af9/chardet_1607706768982/work
@@ -45,7 +45,7 @@ clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 contextlib2==0.6.0.post1
 correlation-cuda==0.0.0
-cryptography==39.0.1
+cryptography==41.0.4
 cvbase==0.5.5
 cycler==0.10.0
 cymem==2.0.5
@@ -78,7 +78,7 @@ google-auth==2.3.2
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 greenlet @ file:///tmp/build/80754af9/greenlet_1611958357961/work
-grpcio==1.41.1
+grpcio==1.53.0
 h5py==2.10.0
 hdijupyterutils==0.19.0
 HeapDict==1.0.1
@@ -115,7 +115,7 @@ jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1612213308260/work
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
-jupyter-server==1.17.0
+jupyter-server==2.7.2
 jupyterlab==3.0.17
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server==2.6.0
@@ -181,8 +181,8 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.3.0
-pipreqs==0.4.12
+Pillow==10.0.1
+pipreqs==0.4.11
 pkginfo==1.7.0
 plotly==5.0.0
 pluggy==0.13.1
@@ -198,7 +198,7 @@ psutil @ file:///tmp/build/80754af9/psutil_1612298016854/work
 psycopg2==2.7.5
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 py @ file:///tmp/build/80754af9/py_1607971587848/work
-pyarrow==4.0.1
+pyarrow==14.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0.2
@@ -253,7 +253,7 @@ sagemaker==2.46.1
 scikit-image==0.17.2
 scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376882706/work
 scikit-video==1.1.11
-scipy==1.2.0
+scipy==1.10.0
 seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
 SecretStorage @ file:///tmp/build/80754af9/secretstorage_1614022884812/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
@@ -319,7 +319,7 @@ typing==3.7.4.3
 typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 ujson @ file:///tmp/build/80754af9/ujson_1611259506266/work
 unicodecsv==0.14.1
-urllib3==1.26.5
+urllib3==1.26.18
 VideoAmodal==0.0.0
 wasabi==0.8.2
 watchdog @ file:///tmp/build/80754af9/watchdog_1612471130876/work
