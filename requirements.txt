@@ -1,6 +1,6 @@
 absl-py==0.15.0
 aiobotocore==1.3.0
-aiohttp==3.8.6
+aiohttp==3.9.0
 aioitertools==0.7.1
 alabaster==0.7.12
 anaconda-client==1.7.2
