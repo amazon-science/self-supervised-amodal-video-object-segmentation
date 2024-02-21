@@ -45,7 +45,7 @@ clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 contextlib2==0.6.0.post1
 correlation-cuda==0.0.0
-cryptography==41.0.4
+cryptography==42.0.4
 cvbase==0.5.5
 cycler==0.10.0
 cymem==2.0.5
